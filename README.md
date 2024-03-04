@@ -18,3 +18,13 @@ Don't forget to edit the ```.env``` file and add your own token. The bot will no
 ```
 $ python main.py
 ```
+
+Currently, the bot can only quote a lyric if you ask it to.
+
+```
+(discord): $rxk quote
+
+(RXKBot): "French Montana sacrificed Max"
+```
+
+I will update it with support for automatic quotes at some point.
